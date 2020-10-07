@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// snap 1
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       ),
       // A widget which will be started on application startup
       home: MyHomePage(title: 'Flutter Demo Home Page'),
+      //gdfgdf
     );
   }
 }
